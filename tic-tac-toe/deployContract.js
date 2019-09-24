@@ -12,3 +12,4 @@ contractInstance = Contract.new({
         console.log("here's the contract address just deployed", result.address)
     }
 })
+
